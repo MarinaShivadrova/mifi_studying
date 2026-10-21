@@ -1,2 +1,2 @@
-# mifi_studing
+# mifi_studying
 sf homework
